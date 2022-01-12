@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.nav-item{
+  font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    color: #555;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 8px 2px;
+    border-radius: 0;
+    margin: 9px 20px 0 20px;
+}
+
+.NavBar{
+  padding: 5px 10rem 5px;
+  /* background-color: rgb(226, 221, 221); */
+  
+}
+#akf{
+  margin-left: 150px;
+  font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #333;
+    text-transform: uppercase;
+}
+
+.FirstPage{
+  /* background-color: #555; */
+  /* background-image:url("./img/1.png"); */
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.Main_Head{
+  padding-top: 10rem;
+  padding-top: 10rem;
+  font-family: monospace;
+  font-weight: 600;
+  
+}
+
+.main-para{
+  padding-bottom: 1rem;
+    padding-top: 1rem;
+    font-size: large;
+    font-weight: 600;
+    font-family: monospace;
+}
+
+.main-btn{
+  border-radius: 15px;
+  padding: 2px 20px 2px;
+  font-family: monospace;
+}
+
+.feature-title{
+  position: relative;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  font-weight: 900;
+  margin-top: 4rem;
+  
+}
+
+.col-md-3 {
+  width: 25%;
+  float: right;
+  padding: 10px 50px 10px;
+}
+
+#Fcard{
+  padding-bottom: 4rem;
+    background-color: #eafaea;;
+}
+
+
+
+  #Abt h2{
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 36px;
+    color: #646464;
+    margin: 0px 0px 20px;
+    font-family: Raleway, sans-serif;
+    display: block;
+    font-size: 2.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    position: relative;
+    /* margin-bottom: 15px; */
+    /* padding-bottom: 15px; */
+    padding-top: 4rem;
+
+}
+
+#Abt p{
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-size: 1rem;
+  line-height: 1.5rem;
+    margin: 30px 0px;
+    font-family: monospace;
+}
+
+#Abt img {
+
+  width: 40rem;
+ margin-left: -4rem;
+ padding-top: 8rem;
+
+}
+
+#Abt h3 {
+  font-size: 2rem;
+  font-family: monospace ; 
+ margin-top: 3rem;
+  font-weight: 600;
+  color: #646464;
+}
+
+
+.list3 ul{
+  list-style: none;
+  margin-top: 0px;
+    margin-bottom: 10px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+#whyus-ul li{
+  font-size: 1rem;
+  /* padding: 10px 20px 10px; */
+  font-style: italic;
+  font-family: monospace;
+  font-weight: bold;
+  list-style: disc;
+  margin-left: 5rem;
+  padding-bottom: 1rem;
+  padding-top: 3rem;
+  padding-left: 3rem;
+color: rgb(143, 134, 134)
+ 
+}
+
